@@ -1,5 +1,5 @@
 # hollerchat
-I want to create a truly distributed chat client with strong end-to-end encryption.
+P2P messaging
 
 Ideas:
 * bittorrent-like tech can provide offline messaging by intermediate storing messages in the network
